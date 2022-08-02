@@ -2,7 +2,7 @@ import { Server } from "@colyseus/core";
 import { WebSocketTransport } from "@colyseus/ws-transport";
 import ChatRoom from "./chatroom.js";
 
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 3000;
 
 const server = new Server({
     transport: new WebSocketTransport()
