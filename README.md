@@ -12,7 +12,7 @@ and use
 ```
 cd colyseus-server
 ```
-### Step 2:Install yarn using the following command if ```yarn --version``` command doesnot return a version number.
+### Step 2 :Install yarn using the following command if ```yarn --version``` command doesnot return a version number.
 ```
 npm install --global yarn
 ```
@@ -20,7 +20,7 @@ npm install --global yarn
 ```
 yarn
 ```
-### Step 4:Run the server on local host using 
+### Step 4 :Run the server on local host using 
 ```
 node server.js
 ```
