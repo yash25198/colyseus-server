@@ -5,6 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "colyseus": "^0.14.23"
+    "colyseus": "^0.14.23",
+    "cors": "^2.8.5"
   }
 }
