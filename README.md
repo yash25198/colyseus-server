@@ -1,4 +1,4 @@
-# colyseus-server
+# Colyseus Chatroom server
 This is a server to host the websocket of Colyseus game engine that handles generation of chatroom and multiple user interaction.
 
 The server for this codebase is hosted at https://colyseus-server.onrender.com
@@ -24,6 +24,9 @@ yarn
 ```
 node server.js
 ```
+
+## Frontend
+To host a frontend app to interact with the server hosted locally, follow the steps at https://github.com/yash25198/frontend-server.git for dev branch.
 
 
 
